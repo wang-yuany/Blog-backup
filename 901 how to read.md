@@ -1,7 +1,7 @@
 ---
 title: 阅读小结
 date: 2016-10-11 00:21:29
-tags: 小结
+tags: [小结,阅读]
 ---
 
 个人总结，作用在于梳理个人思维系统，形成有意识有规律的行为模式，然后遇到新的知识就可以从容往里套。说到底，做好一件事的关键“但手熟尔”，不过手熟的方法不是漫无目的的尝试，而是一点技巧及长时间的刻意练习。
@@ -114,3 +114,6 @@ tags: 小结
 - [《如何阅读一本书》](https://book.douban.com/subject/1013208/) (五星推荐)
 - [《越读者》](https://book.douban.com/subject/3644095/) （前一本书的“精简版”）
 - [《这样读书就够了》](https://book.douban.com/subject/20493042/) ——赵周
+
+如果喜欢我的文章，请关注我的公众号。
+![公众号](http://bdbea3.duapp.com/pcs_download.php?id=3172&link=%2Fapps%2Fhgf_blog%2F%E5%85%AC%E4%BC%97%E5%8F%B7logo.jpg)
