@@ -99,6 +99,12 @@ Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（�
 
 最后访问主页观察效果，首次创建耐心等待10分钟左右审核，之后即可访问静态主页如 http://wang_yuany.github.io
 
+## 写文章
+Hexo发布的.md源文件在 ./source/_posts 下面，我一般倾向于写完之后加一个文件头，用于生成网页时引用。也可以输入下列命令生成指定名称的文档：
+
+    hexo new [layout] "postName" #新建文章
+
+
 ## Hexo主题
 Hexo的[(主题列表)](https://github.com/hexojs/hexo/wiki/Themes)
 
