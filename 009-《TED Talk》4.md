@@ -53,4 +53,4 @@ Let yourself smile while looking at the pink dots, pause for the big black blob,
 [006-你以为准备好演讲内容就好了吗](http://mp.weixin.qq.com/s?__biz=MzI0MDI3NDU2Nw==&mid=2247483703&idx=1&sn=273b9a3ef3970985f75211f2a8e7e65b&chksm=e91c1cdfde6b95c9185e6004dba4323f00371f0b118cd7d8266d577d839557f76ffbe2207382&scene=0#wechat_redirect)
 
 如果喜欢我的文章，请关注我的公众号。
-![公众号](http://bdbea3.duapp.com/pcs_download.php?id=3172&link=%2Fapps%2Fhgf_blog%2F%E5%85%AC%E4%BC%97%E5%8F%B7logo.jpg)
+![公众号](http://ofjzymouj.bkt.clouddn.com/16-10-24/1552231.jpg)

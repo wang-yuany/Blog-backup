@@ -85,4 +85,4 @@ tags: [个人成长,阅读]
 
 
 如果喜欢我的文章，请关注我的公众号。
-![公众号](http://bdbea3.duapp.com/pcs_download.php?id=3172&link=%2Fapps%2Fhgf_blog%2F%E5%85%AC%E4%BC%97%E5%8F%B7logo.jpg)
+![公众号](http://ofjzymouj.bkt.clouddn.com/16-10-24/1552231.jpg)
