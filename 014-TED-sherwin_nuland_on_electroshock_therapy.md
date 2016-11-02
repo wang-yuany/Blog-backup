@@ -6,7 +6,7 @@ tags: [演讲,TED]
 这是个有点沉重、可能也不够有趣的话题~
 
 TED Sherwin Nuland: How electroshock therapy changed me
-<iframe src="http://www.ted.com/talks/sherwin_nuland_on_electroshock_therapy" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="https://embed.ted.com/talks/lang/en/sherwin_nuland_on_electroshock_therapy" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 [腾讯视频 舍温·纽兰 关于电击疗法](http://v.qq.com/x/cover/qlo0fmxlr0wu11i.html?vid=y0012bwcii2)
 
